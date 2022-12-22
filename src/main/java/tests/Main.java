@@ -3,8 +3,9 @@ package main.java.tests;
 public class Main {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		TestClass testClass = new TestClass("Phil");
+		
+		System.out.println("nom de TestClass: " + testClass.getNom());
 	}
 
 }
