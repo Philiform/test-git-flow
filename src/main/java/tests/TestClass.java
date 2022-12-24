@@ -10,6 +10,11 @@ public class TestClass {
 	private String nom;
 	private int age;
 	
+	/**
+	 * 
+	 * @param nom de la personne
+	 * @param age de la personne
+	 */
 	TestClass(String nom, int age) {
 		this.setNom(nom);
 		this.setAge(age);
