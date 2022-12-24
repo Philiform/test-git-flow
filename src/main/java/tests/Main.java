@@ -1,5 +1,11 @@
 package main.java.tests;
 
+/**
+ * point d'entrée du programme
+ * 
+ * @author Phil
+ *
+ */
 public class Main {
 
 	public static void main(String[] args) {
