@@ -1,5 +1,11 @@
 package main.java.tests;
 
+/**
+ * donne ou définit le nom et l'âge d'une personne
+ * 
+ * @author Phil
+ *
+ */
 public class TestClass {
 	private String nom;
 	private int age;
